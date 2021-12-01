@@ -19,6 +19,8 @@ A leatherTV inspired app created with custom transitions
 ### Cool Features
 
 - [x] Custom Transition Animation 😉
+- [x] Custom Circular Progress Bar
+- [x] AutoLayout without Storyboards/Xib
 
 ## Requirements
 
